@@ -92,7 +92,7 @@ const HTMLCertificado = nome => `
   <p>
     participou da <a target="_blank" href="https://www.alura.com.br/quarentenadev">quarentenaDev </a>
     <span>
-      de 30/03/2020 a 10/04/2020 Carga horária de 10h
+      de 30/03/2020 a 10/04/2020
     </span>
   </p>
 
